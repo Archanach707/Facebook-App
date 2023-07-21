@@ -1,0 +1,29 @@
+#facebook {
+  background-color: #f2f2f2;
+  width: 100%;
+}
+
+#facebook-inner {
+  margin: auto;
+}
+
+#facebook-inner #facebook-wrapper {
+  line-height: 20px;
+  background-color: #fff;
+}
+
+#facebook-wrapper-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  list-style: none;
+}
+
+#facebook-wrapper-list .list-item {
+  font-size: 1.5rem;
+}
+
+.list-item .btn-group button {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
