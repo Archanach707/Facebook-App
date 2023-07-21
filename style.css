@@ -52,3 +52,20 @@
   padding-left: 15px; 
   padding-right: 15px;     
 }
+
+#whats {
+  background-color: #f9f9f9; 
+  border-color: #f9f9f9;
+}
+
+#whats .whats-inner {
+  height: 100%;
+}
+
+.whats-inner #whats-inner-img {
+  position:relative;
+  left: 30%; 
+  top: 20%; 
+  width: 54px; 
+  height: 54px;
+}
