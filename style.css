@@ -69,3 +69,8 @@
   width: 54px; 
   height: 54px;
 }
+
+#details {
+  left: 30%; 
+  padding-top: 8px;
+}
