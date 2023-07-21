@@ -27,3 +27,23 @@
   font-size: 1.2rem;
   font-weight: bold;
 }
+
+#whats-new-img {
+  height: 200px; 
+  background-color: lightgray;
+}
+
+#whats-new .d-flex.whats-new-list {
+  list-style: none; 
+  display: flex!important; 
+  flex-direction: column;
+  position: absolute; 
+  bottom: 0%;
+  right: 15px;
+}
+
+#whats-new .d-flex.whats-new-list li {
+  background: #fff; 
+  padding: 5px 8px 5px 8px; 
+  border-radius: 50%;
+}
